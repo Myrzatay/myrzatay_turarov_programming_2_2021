@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/bin/Debug/net5.0/InvoicesManager.deps.json
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/bin/Debug/net5.0/InvoicesManager.runtimeconfig.json
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/bin/Debug/net5.0/InvoicesManager.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/bin/Debug/net5.0/InvoicesManager.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/bin/Debug/net5.0/ref/InvoicesManager.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/bin/Debug/net5.0/InvoicesManager.pdb
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/ref/InvoicesManager.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.pdb
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/InvoicesManager/obj/Debug/net5.0/InvoicesManager.genruntimeconfig.cache

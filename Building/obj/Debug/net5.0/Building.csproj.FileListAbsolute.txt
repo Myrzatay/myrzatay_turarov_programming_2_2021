@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/bin/Debug/net5.0/Building.deps.json
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/bin/Debug/net5.0/Building.runtimeconfig.json
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/bin/Debug/net5.0/Building.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/bin/Debug/net5.0/Building.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/bin/Debug/net5.0/ref/Building.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/bin/Debug/net5.0/Building.pdb
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/ref/Building.dll
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.pdb
+/Users/macbookpro/Desktop/Myrzatay_Turarov_2_2021/Building/obj/Debug/net5.0/Building.genruntimeconfig.cache
